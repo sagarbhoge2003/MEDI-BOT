@@ -54,5 +54,5 @@ python app.py
  <h2>License</h2>
     <p>MIT License</p>
 
-    <h2>Contact</h2>
+ <h2>Contact</h2>
     <p>For issues or suggestions, please open a GitHub issue.</p>
